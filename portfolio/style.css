@@ -30,8 +30,11 @@ hr {position: relative;
             right: 0;
         margin-right: 33px}
 
-    footer {position:fixed;
-    margin-left:500px;
-margin-top: 40px;}
+        footer {position:fixed;
+            margin-left:500px;
+            margin-top: 40px;}
+        
+
+ 
 
 
