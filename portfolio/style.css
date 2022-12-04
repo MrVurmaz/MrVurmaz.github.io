@@ -33,13 +33,13 @@ img {width: 340px; float:right;}
       .btn-primary {position:static}
 
     
-      #kartlar {background:black; color: white;}
-    #hakkimda {background:#008b8b; color:white;}
-    #last {background:black; color: white;}
-    #ilk {background:black; color: white;}
-    #son {background:#008b8b; color:white;}
- #link {color:white;}
+      #kartlar {max-width:100%;height:auto;background:black; color: white;}
+    #hakkimda {max-width:100%;height:auto;background:#008b8b; color:white;}
+    #last {max-width:100%;height:auto;background:black; color: white;}
+    #ilk {max-width:100%;height:auto; background:black; color: white;}
+    #son {max-width:100%;height:auto; background:#008b8b; color:white;}
+ #link {max-width:100%;height:auto; color:white;}
 
-body {background:#008b8b;}
+body {max-width:100%; height:auto; background:#008b8b;}
 
     
