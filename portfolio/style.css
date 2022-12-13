@@ -1,3 +1,5 @@
+body {max-width:100%; height:auto; background:#f0ffff;}
+
 #baslik {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 #unvan {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 #unvan2 {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;}
@@ -29,12 +31,8 @@ img {width: 340px; float:right;}
       .btn-primary {position:static}
 
     
-    
-  #hakkimda {max-width:100%;height:auto;background:#f0ffff; color:black;}
-    
-
+ 
+#hakkimda {max-width:100%;height:auto;background:#f0ffff; color:black;}
+#ilk {max-width:100%;height:auto;}
 #link {max-width:100%;height:auto; color:white;}
-
-body {max-width:100%; height:auto; background:#f0ffff;}
-
 #last {max-width:100%;height:auto;}
