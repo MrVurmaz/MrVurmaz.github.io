@@ -10,10 +10,6 @@ img {width: 340px; float:right;}
 #tecrube {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 #projeler {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
-#diger {background: lightpink;}
-#diger2 {background: lightpink;}
-#diger3 {background: lightpink;}
-
       .btn-linkedin {
         background: #0E76A8;
         border-radius: 0;
@@ -33,13 +29,12 @@ img {width: 340px; float:right;}
       .btn-primary {position:static}
 
     
-      #kartlar {max-width:100%;height:auto;background:black; color: white;}
-    #hakkimda {max-width:100%;height:auto;background:#008b8b; color:white;}
-    #last {max-width:100%;height:auto;background:black; color: white;}
-    #ilk {max-width:100%;height:auto; background:black; color: white;}
-    #son {max-width:100%;height:auto; background:#008b8b; color:white;}
- #link {max-width:100%;height:auto; color:white;}
-
-body {max-width:100%; height:auto; background:#008b8b;}
-
     
+  #hakkimda {max-width:100%;height:auto;background:#f0ffff; color:black;}
+    
+
+#link {max-width:100%;height:auto; color:white;}
+
+body {max-width:100%; height:auto; background:#f0ffff;}
+
+#last {max-width:100%;height:auto;}
